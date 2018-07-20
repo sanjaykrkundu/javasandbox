@@ -25,4 +25,16 @@ public class Laj {
       e.printStackTrace();
     }
   }
+  
+  
+  /*
+  
+    can be achive by running 
+    to appand policy use = 
+    to replace policy use ==
+    java -Djava.security.manager -Djava.security.policy=policyFilePath classFile
+  
+  
+  */
+  
 }
